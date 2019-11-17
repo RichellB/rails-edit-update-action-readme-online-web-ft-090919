@@ -1,7 +1,7 @@
 class ArticlesController < ApplicationController
   def index
     @articles = Article.all
-    #syb
+    #sub
   end
 
   def show
